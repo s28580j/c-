@@ -1,0 +1,3 @@
+/Users/julia/CLionProjects/projektProba/cmake-build-debug/CMakeFiles/projektProba.dir
+/Users/julia/CLionProjects/projektProba/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/julia/CLionProjects/projektProba/cmake-build-debug/CMakeFiles/rebuild_cache.dir
